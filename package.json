@@ -29,6 +29,7 @@
     "moment": "^2.30.1",
     "nodemon": "^3.1.4",
     "redux": "^5.0.1",
-    "reselect": "^5.1.1"
+    "reselect": "^5.1.1",
+    "ts-loader": "^9.5.1"
   }
 }
