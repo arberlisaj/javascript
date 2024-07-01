@@ -1,4 +1,4 @@
-import { counter } from "./counter";
+import { counter } from "./utils/counter";
 
 document.querySelector("#app").innerHTML = `
   <h1 id="result">0</h1>
